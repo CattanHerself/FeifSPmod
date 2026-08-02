@@ -7,7 +7,7 @@ It is compatible with both the Citra emulator or the Luma custom firmware (CFW) 
 
 Installation:
 Simply extract the romfs directory inside your relevant mod directory, with the titleID as its root. It should look like this:
-[titleID]\romfs\m\@U
+[titleID]\romfs\m\ @U
 
 If you do not know what your game's titleID is, look bellow:
 
@@ -20,7 +20,7 @@ If you do not know what your game's titleID is, look bellow:
 0004000000179800: Fates Special Edition USA 
 
 For instance, in order to mod my copy of the European special edition, my file architecture on Citra is:
-\Citra\load\mods\000400000017A800\romfs\m\@U
+\Citra\load\mods\000400000017A800\romfs\m\ @U
 
 If you are modding the game using Luma3DS, make sure to enable game patching through the setting menu (hold Select on boot)
 
