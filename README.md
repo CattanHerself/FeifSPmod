@@ -30,3 +30,7 @@ If you are modding the game using Luma3DS, make sure to enable game patching thr
 Compatibility:
 
 This mod is compatible with every mod that does not touch the same files. Importantly, it is compatible with UnassumingVenusaur's Gay Fates mod. In fact, she's even credited in the opening because I run this mod on my console and you should too.
+
+Credit:
+
+Original game files were made by Inteligent System and Nintendo, all modifications are made by myself using FEAT to decompress and recompress the files and Notepad++ for the actual editing.
