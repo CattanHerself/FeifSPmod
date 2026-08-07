@@ -24,6 +24,11 @@ For instance, in order to mod my copy of the European special edition, my file a
 
 /Citra/load/mods/000400000017A800/romfs/m/@U
 
+On Luma, it would be: 
+
+/luma/titles/000400000017A800/romfs/m/@U
+
+
 If you are modding the game using Luma3DS, make sure to enable game patching through the setting menu (hold Select on boot)
 
 
