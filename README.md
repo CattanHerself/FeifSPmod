@@ -52,7 +52,7 @@ Examples:
 
 <img width="567" height="431" alt="01" src="https://github.com/user-attachments/assets/eb426c2e-368a-4ef1-b588-8a2f5ed94edc" />
 
-<img width="567" height="428" alt="02" src="https://github.com/user-attachments/assets/92b2c5cf-1c95-4348-b29c-034c2d346173" />
+<img width="567" height="428" alt="02" src="https://github.com/user-attachments/assets/99d19cb5-730f-4f2c-a942-0646c3a51d69" />
 
 <img width="907" height="557" alt="04" src="https://github.com/user-attachments/assets/6ea52006-81a3-4369-8a32-945c735791f0" />
 
