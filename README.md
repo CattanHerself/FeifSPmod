@@ -38,7 +38,7 @@ If you are modding the game using Luma3DS, make sure to enable game patching thr
 Compatibility:
 -
 
-This mod is compatible with every mod that does not touch the same files. Importantly, it is compatible with UnassumingVenusaur's Gay Fates mod. In fact, she's even credited in the opening because I run this mod on my console and you should too. It is also compatible with her other mods, such as Early Flora or inverted Jakob/Felicia recruitment.
+This mod is compatible with every mod that does not touch the same files. It does not change any story/support conversation and should be fully compatible with mods changing those. This mod should also be compatible with "content restoration" mods that bring certain features of the Japanese version into the global one. To be safe, instal this mod AFTER any content restoration mod, and both should work just fine. If not, please let me know and I will see what can be done.
 
 Credit:
 -
