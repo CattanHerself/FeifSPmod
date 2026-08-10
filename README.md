@@ -34,6 +34,8 @@ On Luma, it would be:
 
 If you are modding the game using Luma3DS, make sure to enable game patching through the setting menu (hold Select on boot)
 
+**If you are using an American version, you must rename the @U folder into @E.**
+
 
 Compatibility:
 -
